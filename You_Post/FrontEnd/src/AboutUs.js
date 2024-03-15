@@ -1,4 +1,4 @@
-import video1 from "./Video/AboutUs.mkv";
+import video1 from "https://drive.google.com/file/d/1DTH8D2rKBUSMQ75A_x7rsNQPVm4FzZgF/view?usp=sharing";
 import "./css/about_us.css";
 
 export default function AboutUs()
