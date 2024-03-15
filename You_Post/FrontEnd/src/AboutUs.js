@@ -8,7 +8,7 @@ export default function AboutUs() {
       <iframe
         title="video"
         src="https://drive.google.com/file/d/1DTH8D2rKBUSMQ75A_x7rsNQPVm4FzZgF/preview"
-        width="700"
+        width="900"
         height="500"
         allow="autoplay"
       />
