@@ -1,0 +1,42 @@
+.login_box
+{
+    background: black;
+    margin: auto;
+    width: 300px;
+    height: 500px;
+    text-align: center;
+    padding: 10px;
+    margin-top: 50px;
+}
+
+.login_heading
+{
+    margin-top: 50px;
+}
+.login_input
+{
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.login_error
+{
+    color: red;
+}
+
+.login_button
+{
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.login_reg_button
+{
+    color: blue;
+    cursor: pointer;
+}
+
+.login_reg_button:hover
+{
+    text-decoration: underline;
+}

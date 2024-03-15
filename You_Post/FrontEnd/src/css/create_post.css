@@ -1,0 +1,28 @@
+.create_div
+{
+    background: black;
+    margin: auto;
+    width: 300px;
+    height: 500px;
+    text-align: center;
+    padding: 10px;
+    margin-top: 50px;
+}
+
+.create_input
+{
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.create_button
+{
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.back_button
+{
+    margin-left: 200px;
+    margin-top: 10px;
+}
